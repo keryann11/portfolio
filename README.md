@@ -14,7 +14,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 * [**Mes Compétences Techniques**](competences) 
 * **Missions:**
     * [Préparation de Templates](missions/templates)
-    * [Sécurisation d'une Machine Linux](missions/mission-2-securisation.md)
+    * [Sécurisation d'une Machine Linux](missions/securiter)
     * [Découverte des Bases Web](missions/mission-3-bases-web.md)
     * [Passage au Public & Multi-Cloud](missions/mission-4-public-multi-cloud.md)
     * [YunoHost local (VMware)](missions/mission-5-yunohost-local.md)
