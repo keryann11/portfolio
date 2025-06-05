@@ -1,4 +1,6 @@
+---
 # 🧱 Création des Templates
+---
 
 ## Objectifs de la Mission
 Cette mission visait à mettre en place un environnement de virtualisation propre et prêt à l'emploi en créant des templates de machines virtuelles pour différents systèmes d'exploitation.
