@@ -1,4 +1,4 @@
-# 🧪 Mission 6 : YunoHost sur OpenStack (en test)
+# 🧪 YunoHost sur OpenStack (test)
 
 ## Objectifs de la Mission
 Cette mission avait pour objectif de répliquer l'expérience YunoHost d'une installation locale vers un environnement de cloud privé : OpenStack. Il s'agissait de déployer une instance YunoHost sur une infrastructure OpenStack, de la configurer de manière similaire à l'environnement local, et d'explorer l'ajout de nouveaux services pour tester la flexibilité de la plateforme.
