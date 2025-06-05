@@ -11,7 +11,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 ## 🧭 Navigation
 
 * [**À propos de moi**](a-propos) 
-* [**Mes Compétences Techniques**](#competences-techniques) 
+* [**Mes Compétences Techniques**](#competences) 
 * **Missions:**
     * [Préparation de Templates](missions/templates)
     * [Sécurisation d'une Machine Linux](missions/mission-2-securisation.md)
