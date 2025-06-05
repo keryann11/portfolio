@@ -18,7 +18,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
     * [Découverte des Bases Web](missions/web.md)
     * [Passage au Public & Multi-Cloud](missions/cloud.md)
     * [YunoHost local (VMware)](missions/yunohost-vmware.md)
-    * [YunoHost sur OpenStack (en test)](missions/mission-6-yunohost-openstack.md)
+    * [YunoHost sur OpenStack (en test)](missions/yunohost-test.md)
     * [YunoHost en Production (final)](missions/mission-7-yunohost-production.md)
 
 ---
