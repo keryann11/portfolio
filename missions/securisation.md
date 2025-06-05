@@ -1,6 +1,5 @@
----
 # 🔐 Sécurisation d'une Machine Linux 
----
+
 ## Objectifs de la Mission
 Cette mission avait pour but de renforcer la sécurité d'une machine Linux (Debian ou Ubuntu, sans GUI) fraîchement installée. L'objectif était de la prémunir contre les accès non autorisés et les attaques courantes par force brute, tout en facilitant l'administration à distance sécurisée.
 
