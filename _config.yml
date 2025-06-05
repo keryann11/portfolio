@@ -27,4 +27,4 @@ header_pages:
 
 # Configuration Minima (optionnel, pour personnaliser Minima)
 minima:
-  skin: dark   # ou "classic", "solarized" pour changer les couleurs
+  skin: solarized   # ou "classic", "solarized" pour changer les couleurs
