@@ -10,7 +10,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 
 ## 🧭 Navigation
 
-* [**À propos de moi**](#a-propos-de-moi) 
+* [**À propos de moi**](a-propos) 
 * [**Mes Compétences Techniques**](#competences-techniques) 
 * **Missions:**
     * [Préparation de Templates](missions/templates)
