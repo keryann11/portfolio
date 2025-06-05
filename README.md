@@ -15,7 +15,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 * **Missions:**
     * [Préparation de Templates](missions/templates.md)
     * [Sécurisation d'une Machine Linux](missions/securisation.md)
-    * [Découverte des Bases Web](missions/mission-3-bases-web.md)
+    * [Découverte des Bases Web](missions/web.md)
     * [Passage au Public & Multi-Cloud](missions/mission-4-public-multi-cloud.md)
     * [YunoHost local (VMware)](missions/mission-5-yunohost-local.md)
     * [YunoHost sur OpenStack (en test)](missions/mission-6-yunohost-openstack.md)
