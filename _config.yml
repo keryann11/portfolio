@@ -5,7 +5,7 @@ theme: minima
 title: Portfolio de Kéryann DA GRACA
 
 # Description de votre site
-description: Mon portfolio professionnel en Systèmes, Réseaux et Cybersécurité.
+# description: Mon portfolio professionnel en Systèmes, Réseaux et Cybersécurité.
 
 # URL de base de votre site (nécessaire si votre dépôt n'est pas ton-utilisateur.github.io)
 # Dans ton cas, si tu utilises un sous-domaine comme portfolio-test.pourtest.ovh,
