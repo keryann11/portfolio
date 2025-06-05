@@ -10,8 +10,8 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 
 ## 🧭 Navigation
 
-* [**À propos de moi**](#a-propos-de-moi) (Si tu as une section courte ici, sinon créer un fichier dédié)
-* [**Mes Compétences Techniques**](#competences-techniques) (Si tu as une section courte ici, sinon créer un fichier dédié)
+* [**À propos de moi**](#a-propos-de-moi) 
+* [**Mes Compétences Techniques**](#competences-techniques) 
 * **Missions:**
     * [Préparation de Templates](missions/mission-1-templates.md)
     * [Sécurisation d'une Machine Linux](missions/mission-2-securisation.md)
