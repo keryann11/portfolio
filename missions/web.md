@@ -1,6 +1,5 @@
----
 # 🌐 Web
----
+
 ## Objectifs de la Mission
 Cette mission avait pour but de découvrir et de mettre en œuvre les composants fondamentaux d'une stack web LAMP (Linux, Apache/Nginx, MariaDB, PHP) et de déployer des applications web courantes. Il s'agissait également d'appliquer les premières mesures de sécurité web.
 
