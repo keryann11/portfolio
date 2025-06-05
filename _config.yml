@@ -1,0 +1,30 @@
+# Le thème que vous souhaitez utiliser
+theme: minima
+
+# Titre de votre site (apparaîtra en haut)
+title: Portfolio de Kéryann DA GRACA
+
+# Description de votre site
+description: Mon portfolio professionnel en Systèmes, Réseaux et Cybersécurité.
+
+# URL de base de votre site (nécessaire si votre dépôt n'est pas ton-utilisateur.github.io)
+# Dans ton cas, si tu utilises un sous-domaine comme portfolio-test.pourtest.ovh,
+# tu n'as pas besoin de mettre baseurl ici.
+# Si tu étais sur sysadminjunior.github.io/portfolio, tu mettrais: baseurl: "/portfolio"
+# Pour ton setup actuel avec domaine personnalisé, laisse-le vide ou commente-le.
+# baseurl: ""
+
+# Afficher les liens vers les pages dans le header
+header_pages:
+  - a-propos.md
+  - competences.md
+  - missions/templates.md # Tu peux ajouter un lien vers la première mission ou la section des missions
+  - missions/securisation.md
+  - missions/web.md
+  - missions/cloud.md
+  - missions/yunohost-vmware.md
+  - missions/yunohost-openstack.md
+
+# Configuration Minima (optionnel, pour personnaliser Minima)
+minima:
+  skin: dark   # ou "classic", "solarized" pour changer les couleurs
