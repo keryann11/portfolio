@@ -1,4 +1,8 @@
-# 🚀 Mes Projets Tech
+
+---
+layout: default
+title: 🚀 Mes Projets Tech  
+---
 
 👋 **Bonjour et bienvenue !**
 
