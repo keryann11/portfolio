@@ -1,6 +1,5 @@
----
 # 🛠️ Mes Compétences Techniques
----
+
 Cette page détaille l'ensemble des compétences techniques que j'ai acquises et consolidées jusqu'à présent, notamment grâce à ma formation en Bachelor Systèmes, Réseaux et Cybersécurité et mes missions de stage.
 
 ---
