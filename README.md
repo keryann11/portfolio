@@ -13,7 +13,7 @@ Ce site est une vitrine technique de mon apprentissage, démontrant ma capacité
 * [**À propos de moi**](#a-propos-de-moi) 
 * [**Mes Compétences Techniques**](#competences-techniques) 
 * **Missions:**
-    * [Préparation de Templates](missions/templates.md)
+    * [Préparation de Templates](missions/templates)
     * [Sécurisation d'une Machine Linux](missions/mission-2-securisation.md)
     * [Découverte des Bases Web](missions/mission-3-bases-web.md)
     * [Passage au Public & Multi-Cloud](missions/mission-4-public-multi-cloud.md)
