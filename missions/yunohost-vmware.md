@@ -1,5 +1,6 @@
+---
 # 🔧 YunoHost (VMware)
-
+---
 ## Objectifs de la Mission
 Cette mission avait pour objectif d'explorer la solution d'auto-hébergement YunoHost en l'installant localement dans un environnement virtualisé (VMware). Le but principal était de reproduire les services web et les applications précédemment déployés de manière individuelle (WordPress, DokuWiki, etc.) au sein de l'écosystème YunoHost.
 
